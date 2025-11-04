@@ -1,4 +1,4 @@
-num = 1
+num = 67
 sum = 0
 while num <= 100:
     sum += num
