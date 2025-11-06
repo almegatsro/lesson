@@ -10,4 +10,4 @@ def ispalindrome(string):
     return True
 
 print("Is this a palindrome?:")
-print(ispalindrome("asddsa"))
+print(ispalindrome("dippid"))
